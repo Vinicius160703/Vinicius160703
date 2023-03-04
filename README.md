@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vinicius160703
+### Olá! Eu sou o Vinicius
 
 - 🔭 Em busca do primeiro emprego
 - 🌱 Estudando HTML e CSS
