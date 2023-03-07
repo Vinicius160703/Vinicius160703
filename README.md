@@ -2,7 +2,6 @@
 
 - 🔭 Em busca do primeiro emprego
 - 🌱 Estudando HTML e CSS
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/Vinicius160703">
