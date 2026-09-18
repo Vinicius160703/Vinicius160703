@@ -4,15 +4,89 @@
 - 🌱 Estudando JavaScript
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinicius160703&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius160703 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius160703&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+  <img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=200&section=header&text=Olá,%20eu%20sou%20Vinicius!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+  />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+  </div>
+
+  <!-- TYPING -->
+  <div align="center">
+
+  <img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+em+aprendizado;Transformando+ideias+em+código;Sempre+aprendendo+algo+novo"/>
+
+  </div>
+
+  <br>
+
+  <!-- SOBRE MIM -->
+
+  ## Sobre mim
+
+  Olá! Eu sou **Vinicius**, brasileiro e apaixonado por tecnologia.
+
+  Atualmente estou desenvolvendo minhas habilidades na área de programação.
+
+  Gosto de aprender novas tecnologias, criar projetos e resolver problemas através do código.
+
+  Estou sempre buscando evoluir e transformar conhecimento em projetos reais.
+
+  **Objetivo:** crescer profissionalmente na área de tecnologia e construir projetos cada vez melhores.
+
+  ---
+
+  ## Tecnologias e ferramentas
+
+  <div align="center">
+
+  <img
+  src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql" />
+
+  </div>
+
+  ---
+
+  ## Minhas estatisticas
+
+  <div align="center">
+
+  <img height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=Vinicius160703&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+  <img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius160703&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+  </div>
+
+  ---
+
+  ## Streak de contribuições
+
+  <div align="center">
+
+  <img
+  src="https//streak-stats.demolab.com?user=Vinicius160703&theme=tokyonight&hide_border=true"/>
+
+  </div>
+
+  ---
+
+  ## Atividade no GitHub
+
+  <div align="center">
+
+  <img
+  src="https://github-readme-activity-graph.vercel.app/graph?Vinicius160703&theme=tokyo-night&hide_border=true"/>
+
+  </div>
+
+  ---
+
+  ## Minha atividade
+
+  
+  
 
 ###
 
