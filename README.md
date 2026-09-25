@@ -3,6 +3,7 @@
 - 🔭 Em busca do primeiro emprego
 - 🌱 Estudando JavaScript
 
+<!-- BANNER -->
 <div align="center">  
   <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=200&section=header&text=Olá,%20eu%20sou%20Vinicius!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
@@ -84,9 +85,14 @@
   ---
 
   ## Minha atividade
+  <div align="center">
 
+  ![Snake animation](https://raw.githubusercontent.com/Vinicius160703/Vinicius160703/output/github-contribution-grid-snake-dark.svg)
+
+  </div>
+
+  ---
   
-  
+### Projetos
 
-###
-
+<div aling="center">
